@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite this repository."
+title: "Credit Card Pricing and Product Features in the U.S. Market: Evidence from the CFPB Terms of Credit Card Plans Survey"
+type: software
+authors:
+  - family-names: "Sarpong"
+    given-names: "Peter"
+repository-code: "https://github.com/petersarpong1157-cmyk/cfpb-credit-card-pricing"
+version: "1.0.0"
+date-released: "2026-09-22"
+license: MIT
+keywords:
+  - credit cards
+  - consumer finance
+  - CFPB
+  - APR
+  - R
