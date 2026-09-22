@@ -42,19 +42,19 @@ Sensitivity analyses excluding three 0% APR observations and separately excludin
 
 1. Download the July 1–December 31, 2025 TCCP workbook from the CFPB.
 2. Place the workbook in your local working directory.
-3. Run `analysis.R` in R.
+3. Run `cfpb-credit-card-pricing.R` in R.
 4. The script documents the cleaning, standardized APR construction, primary regression, clustered inference, diagnostics, and sensitivity analyses used in the study.
 
 ## Repository contents
 
-- `analysis.R` — reproducible R workflow.
+- `cfpb-credit-card-pricing.R` — original full R analysis workflow used for the project.
 - `DATA.md` — data provenance and variable-construction notes.
 - `CITATION.cff` — citation metadata.
 - `LICENSE` — MIT license for repository code.
 
 ## Citation
 
-A permanent Zenodo DOI will be added after the v1.0.0 GitHub release is archived.
+A permanent Zenodo DOI will be added after the v3.0.0 GitHub release is archived.
 
 ## Author
 
