@@ -54,7 +54,7 @@ Sensitivity analyses excluding three 0% APR observations and separately excludin
 
 ## Citation
 
-A permanent Zenodo DOI will be added after the v3.0.0 GitHub release is archived.
+A permanent Zenodo DOI will be added DOI: `10.5281/zenodo.22899686` (Zenodo archival release v3.0.1).
 
 ## Author
 
