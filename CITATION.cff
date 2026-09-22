@@ -6,7 +6,8 @@ authors:
   - family-names: "Sarpong"
     given-names: "Peter"
 repository-code: "https://github.com/petersarpong1157-cmyk/cfpb-credit-card-pricing"
-version: "3.0.0"
+doi: "10.5281/zenodo.22899686"
+version: "3.0.1"
 date-released: "2026-09-22"
 license: MIT
 keywords:
