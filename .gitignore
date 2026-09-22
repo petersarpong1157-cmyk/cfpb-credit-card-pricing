@@ -1,0 +1,17 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Local/raw data
+*.xlsx
+*.xls
+*.csv
+data/
+raw_data/
+
+# OS/editor
+.DS_Store
+Thumbs.db
